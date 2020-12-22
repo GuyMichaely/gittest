@@ -1,1 +1,3 @@
-hi
+adding a new file then running
+git commit -a
+to test that it's not included in the commit
