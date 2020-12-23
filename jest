@@ -1,1 +1,1 @@
-going to git commit --amend after this commit
+This line doesn't contain a word which the previous commit did; will use git log -S to see the diff
