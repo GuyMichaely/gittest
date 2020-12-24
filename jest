@@ -1,1 +1,2 @@
 This line doesn't contain a word which the previous commit did; will use git log -S to see the diff
+will modify this file, stage it, then unstage it
