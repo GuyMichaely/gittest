@@ -1,1 +1,4 @@
-resolving merge conflict
+playing around with more interesting merge
+will make new branch A from main, make commits on main, make commits on A, make new branch B from A, make more commits on A, make commits on B
+then merge B on to main
+then merge A on to main
